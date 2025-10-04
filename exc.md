@@ -53,7 +53,7 @@ Deixei as regras dos conectivos aqui para te ajudar sempre que bater aquela dúv
 | F | F | V |  F  |    V     |
 | F | F | F |  F  |    V     |
 
-5. PvQ   Eu vou jogar videogame **ou** vou estudar lógica de programação.
+5- PvQ   Eu vou jogar videogame **ou** vou estudar lógica de programação.
 | P | Q | P v Q |
 |---|---|-------|
 | V | V |   V   |
@@ -61,7 +61,7 @@ Deixei as regras dos conectivos aqui para te ajudar sempre que bater aquela dúv
 | F | V |   V   |
 | F | F |   F   |
 
-6. P^Q   Eu comi pizza **e** tomei refrigerante.
+6- P^Q   Eu comi pizza **e** tomei refrigerante.
 | P | Q | P ^ Q |
 |---|---|-------|
 | V | V |   V   |
@@ -69,7 +69,7 @@ Deixei as regras dos conectivos aqui para te ajudar sempre que bater aquela dúv
 | F | V |   F   |
 | F | F |   F   |
 
-7. P->Q**Se** eu tiver dinheiro, **então** viajarei nas férias.
+7- P->Q**Se** eu tiver dinheiro, **então** viajarei nas férias.
 | P | Q | P -> Q |
 |---|---|-------|
 | V | V |   V   |
@@ -77,7 +77,7 @@ Deixei as regras dos conectivos aqui para te ajudar sempre que bater aquela dúv
 | F | V |   V   |
 | F | F |   V   |
 
-8. P<->Q  Eu lerei um livro **se e somente se** terminar meu trabalho.
+8- P<->Q  Eu lerei um livro **se e somente se** terminar meu trabalho.
 | P | Q | P <-> Q |
 |---|---|-------|
 | V | V |   V   |
@@ -85,7 +85,7 @@ Deixei as regras dos conectivos aqui para te ajudar sempre que bater aquela dúv
 | F | V |   F   |
 | F | F |   V   |
 
-9. P->(QvR)  **Se** estiver sol, **então** irei à praia **ou** ao parque.
+9- P->(QvR)  **Se** estiver sol, **então** irei à praia **ou** ao parque.
 | P | Q | R | QvR | P->(QvR) |
 |---|---|---|-----|----------|
 | V | V | V |  V  |    V     |
@@ -97,7 +97,7 @@ Deixei as regras dos conectivos aqui para te ajudar sempre que bater aquela dúv
 | F | F | V |  V  |    V     |
 | F | F | F |  F  |    V     |
 
-10. P<->Q   Eu farei um bolo **se e somente se** comprar os ingredientes.
+10- P<->Q   Eu farei um bolo **se e somente se** comprar os ingredientes.
 | P | Q | P <-> Q |
 |---|---|-------|
 | V | V |   V   |
