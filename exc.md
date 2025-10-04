@@ -12,9 +12,13 @@ Leia atentamente cada uma das frases abaixo e represente logicamente utilizando 
 10. Eu farei um bolo **se e somente se** comprar os ingredientes.
 
 Deixei as regras dos conectivos aqui para te ajudar sempre que bater aquela dúvida. 🚀
+
 ●  E (∧) é verdadeiro apenas se ambas as proposições forem verdadeiras.
+
 ●  OU (∨) é verdadeiro se pelo menos uma das proposições for verdadeira.
+
 ●  SE ENTÃO (→) é falso apenas quando a primeira proposição é verdadeira e a segunda é falsa.
+
 ●  SE E SOMENTE SE (↔) é verdadeiro quando ambas as proposições possuem o mesmo valor.
 
 1- Eu estudei para a prova **e** fiz todos os exercícios.
